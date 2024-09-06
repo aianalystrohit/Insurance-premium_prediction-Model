@@ -1,0 +1,12 @@
+[ 2024-09-06 14:33:31,398 ] 12 root - INFO - Making connectivity to the mongodbdatabase online version
+[ 2024-09-06 14:33:31,413 ] 14 root - INFO - connection successful
+[ 2024-09-06 14:33:31,413 ] 20 root - INFO - creating database
+[ 2024-09-06 14:33:31,413 ] 22 root - INFO - database created
+[ 2024-09-06 14:33:31,413 ] 28 root - INFO - creating the collection
+[ 2024-09-06 14:33:31,413 ] 30 root - INFO - collection created
+[ 2024-09-06 14:33:31,437 ] 46 root - INFO - dumping datainto mongodb database
+[ 2024-09-06 14:33:31,706 ] 48 root - INFO - data dumped
+[ 2024-09-06 14:33:31,902 ] 59 root - INFO - Retrieving the data from mongodb database
+[ 2024-09-06 14:33:31,903 ] 61 root - INFO - Data Retrieved
+[ 2024-09-06 14:33:31,903 ] 68 root - INFO - Saving the data as dataframe
+[ 2024-09-06 14:33:31,925 ] 71 root - INFO - Data saved
