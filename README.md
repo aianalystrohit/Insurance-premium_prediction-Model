@@ -42,3 +42,17 @@ Each of these steps was meticulously executed to create a comprehensive solution
     6) HTML
     7) CSS
 
+**Documentation**
+HIGH LEVEL DESIGN:
+
+LOW LEVEL DESIGN:
+
+
+ARCHITECTURE:
+
+WIREFRAME DOCUMENT:
+
+DETAIL PROJECT REPORT: 
+
+Project demo video:
+
