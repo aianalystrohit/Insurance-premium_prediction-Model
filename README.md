@@ -39,4 +39,14 @@ Web app interface
 ![Screenshot 2024-09-24 182904](https://github.com/user-attachments/assets/2ce8eff3-9674-4350-8132-1defb464a875)
 
 
+Link for the web app -[https://insurancepremiumprediction-j2kcdoauplgk9jb4cmmhq6.streamlit.app/](url)
+
+Libraries used:
+1) Pandas
+2) Numpy
+3) Matplotlib, Seaborn, Plotly
+4) Scikit-Learn
+5) Streamlit
+6) HTML
+7) CSS
 
