@@ -56,5 +56,5 @@ WIREFRAME DOCUMENT: [https://drive.google.com/file/d/1CnSpB7IPRfwbUo0bB1q5tLN6vk
 
 DETAIL PROJECT REPORT: [https://drive.google.com/file/d/114K9JhJLalD3sPNMp87AadAC04qQY8OW/view?usp=drive_link](url)
 
-Project demo video:
+Project demo video: https://drive.google.com/file/d/1GD6hLYVKYRdtq1CPgwWNsxHIczWzl3xl/view?usp=drive_link
 
