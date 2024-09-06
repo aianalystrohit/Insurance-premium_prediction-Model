@@ -33,6 +33,8 @@ Each of these steps was meticulously executed to create a comprehensive solution
 ### Web app interface 
 ![alt text](https://github.com/Shekharmeena28/Insurance_premium_prediction/blob/main/Image/Screenshot%202023-06-23%20182904.png)
 
+Link for the web app
+https://insurancepremiumprediction-j2kcdoauplgk9jb4cmmhq6.streamlit.app/
 ### Libraries used:
     1) Pandas
     2) Numpy
