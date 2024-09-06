@@ -45,16 +45,16 @@ https://insurancepremiumprediction-j2kcdoauplgk9jb4cmmhq6.streamlit.app/
     7) CSS
 
 **Documentation**
-HIGH LEVEL DESIGN: [https://docs.google.com/presentation/d/1rKsZyxdmPrCsiVBDNbRAzEcCHCMaSfW4/edit?usp=sharing&ouid=115181495402240970921&rtpof=true&sd=true](url)
+HIGH LEVEL DESIGN: [https://drive.google.com/file/d/1Y9MCtNy6X27uLZPwhjfy7pbGEQD1lc3b/view?usp=drive_link](url)
 
-LOW LEVEL DESIGN:[https://docs.google.com/presentation/d/1NiqfCBz73Q6BqH_zpm7leaoBftb3LmYF/edit?usp=drive_link&ouid=115181495402240970921&rtpof=true&sd=true](url)
+LOW LEVEL DESIGN:[https://drive.google.com/file/d/1qucHMJ_4sXWQfbd1VgGOh6SDV8MEiLJw/view?usp=drive_link](url)
 
 
-ARCHITECTURE: [https://docs.google.com/presentation/d/1ktqYBb81D_Peh2gVyZpVb8Tid04JZ7D_/edit?usp=sharing&ouid=115181495402240970921&rtpof=true&sd=true](url)
+ARCHITECTURE: [https://drive.google.com/file/d/1mrYVzAl5-AcWjW6vN4G_ma3O-vKgTjnK/view?usp=drive_link](url)
 
-WIREFRAME DOCUMENT: [https://docs.google.com/presentation/d/1vpQeyWSYr1Enmk5qovvxoEh81m00EUyA/edit?usp=sharing&ouid=115181495402240970921&rtpof=true&sd=true](url)
+WIREFRAME DOCUMENT: [https://drive.google.com/file/d/1CnSpB7IPRfwbUo0bB1q5tLN6vkMK7_Dt/view?usp=drive_link](url)
 
-DETAIL PROJECT REPORT: [https://docs.google.com/presentation/d/1wHyFpMxXQNc0qIugUOhv2QQNFz7w7sRJ/edit?usp=sharing&ouid=115181495402240970921&rtpof=true&sd=true](url)
+DETAIL PROJECT REPORT: [https://drive.google.com/file/d/114K9JhJLalD3sPNMp87AadAC04qQY8OW/view?usp=drive_link](url)
 
 Project demo video:
 
